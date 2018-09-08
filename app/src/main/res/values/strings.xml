@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="todo">TODO</string>
+    <string name="you_know_what_to_do">You know what to do</string>
+    <string name="finger_print_auth">Finger Print Auth</string>
+    <string name="title_activity_chat_screen">ChatScreen</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
